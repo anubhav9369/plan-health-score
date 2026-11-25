@@ -1,0 +1,1 @@
+{"findings":[{"id":"SEC-01","rule":"irreversible publish must be gated","severity":"high","waived":false},{"id":"ETH-02","rule":"every step needs a why","severity":"medium","waived":false}]}

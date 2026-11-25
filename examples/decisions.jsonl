@@ -1,0 +1,2 @@
+{"plan_id": "summarise-paper", "version": 1, "decision": "request-changes", "reviewer": "akhila", "reason": "Step 4 sends to the group list ungated — gate it first."}
+{"plan_id": "summarise-paper", "version": 2, "decision": "approve", "reviewer": "akhila", "reason": "Step 4 is now gated; numbers are cited."}
